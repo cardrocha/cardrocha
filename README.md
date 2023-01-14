@@ -1,6 +1,8 @@
 <img align="right" width="550px" src="https://img.freepik.com/fotos-gratis/computador-laptop-cinza-ligado_400718-47.jpg?w=740&t=st=1673709951~exp=1673710551~hmac=d28055b198ecc13eb15bdbb8ff2b2055835ec6dd9a8f46fc3e9ccbe407d2c401" alt="">
 <h1 align="center">OLá 👋, eu sou Ricardo Rocha</h1>
 <h3 align="center">Apaixonado por tecnologia, estudante de Front-End</h3>
+<br><br>
+<p align="left"><b>-Atualmente faço o curso FullStack Python da EBAC-</b></p>
 
 <h3 align="left">Contato-Redes_sociais:</h3>
 <p align="left">
