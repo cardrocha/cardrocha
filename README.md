@@ -1,3 +1,4 @@
+<img src=""https://www.canva.com/design/DAFQu2hyOXQ/cmf6VGx11WS6A_hKCUPfPQ/view?utm_content=DAFQu2hyOXQ&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu>
 <h1 align="center">OLá 👋, Eu sou Ricardo Rocha</h1>
 <h3 align="center">Apaixonado por tecnologia, estudante de Front-End</h3>
 
