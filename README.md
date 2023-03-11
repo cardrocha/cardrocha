@@ -1,4 +1,4 @@
-<img align="right" width="550px" height="495px" src="https://img.freepik.com/fotos-gratis/computador-laptop-cinza-ligado_400718-47.jpg?w=740&t=st=1673709951~exp=1673710551~hmac=d28055b198ecc13eb15bdbb8ff2b2055835ec6dd9a8f46fc3e9ccbe407d2c401" alt="">
+
 <h2 align="center">OLá 👋, eu sou Ricardo Rocha</h1>
 <h4 align="center">Apaixonado por tecnologia, estudante de Front-End</h3>
 <div align="center">
