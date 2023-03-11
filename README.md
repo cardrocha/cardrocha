@@ -1,10 +1,9 @@
 <img align="right" width="550px" height="495px" src="https://img.freepik.com/fotos-gratis/computador-laptop-cinza-ligado_400718-47.jpg?w=740&t=st=1673709951~exp=1673710551~hmac=d28055b198ecc13eb15bdbb8ff2b2055835ec6dd9a8f46fc3e9ccbe407d2c401" alt="">
 <h2 align="center">OLá 👋, eu sou Ricardo Rocha</h1>
-<h3 align="center">Apaixonado por tecnologia, estudante de Front-End</h3>
+<h4 align="center">Apaixonado por tecnologia, estudante de Front-End</h3>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<div>
-<div align="left">
+
 <img height="180em" width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardrocha&layout=compact&langs_count=7&theme=dracula"/>
 <div>
 <br><br>
