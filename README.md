@@ -1,6 +1,12 @@
-<img align="right" width="550px" src="https://img.freepik.com/fotos-gratis/computador-laptop-cinza-ligado_400718-47.jpg?w=740&t=st=1673709951~exp=1673710551~hmac=d28055b198ecc13eb15bdbb8ff2b2055835ec6dd9a8f46fc3e9ccbe407d2c401" alt="">
-<h1 align="center">OLá 👋, eu sou Ricardo Rocha</h1>
+<img align="right" width="550px" height="495px" src="https://img.freepik.com/fotos-gratis/computador-laptop-cinza-ligado_400718-47.jpg?w=740&t=st=1673709951~exp=1673710551~hmac=d28055b198ecc13eb15bdbb8ff2b2055835ec6dd9a8f46fc3e9ccbe407d2c401" alt="">
+<h2 align="center">OLá 👋, eu sou Ricardo Rocha</h1>
 <h3 align="center">Apaixonado por tecnologia, estudante de Front-End</h3>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div>
+<div align="left">
+<img height="180em" width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+<div>
 <br><br>
 <p align="left"><b>-Atualmente faço o curso FullStack Python da EBAC-</b></p>
 
