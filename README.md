@@ -1,17 +1,27 @@
 ### 👋 Olá, eu sou Ricardo Rocha!
 
 💻 **Desenvolvedor Front-End | Apaixonado por tecnologia**  
-🚀 **Construindo interfaces modernas e responsivas com Next.js e Tailwind CSS**  
+🚀 **Construindo interfaces modernas e responsivas com Next.js e Tailwind CSS**
+
+---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardrocha&layout=compact&langs_count=7&theme=dracula"/>
 
+### 🛠️ Minha Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardrocha&layout=compact&langs_count=7&theme=dracula"/>
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=cardrocha&theme=dracula)
 
----
 </div>
+
+---
 
 ### 📫 Contato & Redes Sociais
 
