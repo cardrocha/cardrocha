@@ -1,5 +1,9 @@
 ### 👋 Olá, eu sou Ricardo Rocha!
 
+Atualmente 2025, fui selecionado para o Bolsa Futuro Digital — um programa federal de formação e inserção profissional promovido pelo Ministério da Ciência, Tecnologia e Inovações, com apoio da Softex Pernambuco, uma das instituições pioneiras na articulação do setor de TIC no Brasil.
+
+Dentro do programa, atuo como Desenvolvedor Front-End, colaborando em projetos reais que utilizam tecnologias modernas, seguindo boas práticas, metodologias ágeis e foco em acessibilidade e escalabilidade.
+
 💻 **Desenvolvedor Front-End | Apaixonado por tecnologia**  
 🚀 **Construindo interfaces modernas e responsivas com Next.js e Tailwind CSS**
 
